@@ -1,2 +1,49 @@
-# ai-security-learning
-Notes and labs from my AI security learning path on HackTheBox and TryHackMe
+# AI Security Learning
+
+Hands-on notes and labs from my AI security learning path.
+
+## Platforms
+- **HackTheBox Academy** - AI Red Teamer path (Hard · 12 modules · ~18 days)
+- **TryHackMe** - AI Security path (Medium · 5 modules · 26 labs)
+
+## Progress
+
+### HackTheBox - AI Red Teamer
+- [x] Fundamentals of AI (in progress)
+- [ ] Applications of AI in InfoSec
+- [ ] Introduction to Red Teaming AI
+- [ ] Prompt Injection Attacks
+- [ ] LLM Output Attacks
+- [ ] AI Data Attacks
+- [ ] Attacking AI - Application and System
+- [ ] AI Evasion - Foundations
+- [ ] AI Evasion - First-Order Attacks
+- [ ] AI Evasion - Sparsity Attacks
+- [ ] AI Privacy
+- [ ] AI Defense
+
+### TryHackMe - AI Security
+- [ ] Module 1
+- [ ] Module 2
+- [ ] Module 3
+- [ ] Module 4
+- [ ] Module 5
+
+## Structure
+
+Each module has its own folder containing:
+- `notes.md` - key concepts, techniques, and observations
+- `labs.md` - lab walkthrough notes and findings (where applicable)
+
+## Why this matters
+
+AI security is an emerging discipline with a critical gap between
+traditional security frameworks and the actual threat surface of
+AI systems. These notes document hands-on learning in offensive
+and defensive AI security techniques - directly supporting my work
+on the [KAICSF framework](https://github.com/Samriddhi5/kaisura-ai-cloud-framework).
+
+## Related work
+- [KAICSF AI-Cloud Security Framework](https://github.com/Samriddhi5/kaisura-ai-cloud-framework)
+- [Securing AI in the Cloud](https://medium.com/@samriddhi5/securing-ai-in-the-cloud-236348de1b7c)
+- [The Compliance Trap](https://medium.com/@samriddhi5)
