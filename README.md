@@ -46,4 +46,4 @@ on the [KAICSF framework](https://github.com/Samriddhi5/kaisura-ai-cloud-framewo
 ## Related work
 - [KAICSF AI-Cloud Security Framework](https://github.com/Samriddhi5/kaisura-ai-cloud-framework)
 - [Securing AI in the Cloud](https://medium.com/@samriddhi5/securing-ai-in-the-cloud-236348de1b7c)
-- [The Compliance Trap](https://medium.com/@samriddhi5)
+- [The Compliance Trap](https://medium.com/@samriddhi5/the-compliance-trap-what-companies-miss-when-using-ai-code-generation-tools-34ac10889af2)
