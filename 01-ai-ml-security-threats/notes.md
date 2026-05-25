@@ -1,10 +1,10 @@
 # Room 1 : AI/ML Security Threats
 
 **Platform:** TryHackMe
-**Path:** AI Security
-**Difficulty:** Medium
-**Status:** ✅ Completed
-**Link:** https://tryhackme.com/room/aimlsecuritythreats
+- **Path:** AI Security
+- **Difficulty:** Medium
+- **Status:** ✅ Completed
+- **Link:** https://tryhackme.com/room/aimlsecuritythreats
 
 ---
 
