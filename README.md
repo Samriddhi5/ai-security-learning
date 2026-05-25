@@ -22,12 +22,41 @@ Hands-on notes and labs from my AI security learning path.
 - [ ] AI Privacy
 - [ ] AI Defense
 
-### TryHackMe - AI Security
-- [ ] Module 1
-- [ ] Module 2
-- [ ] Module 3
-- [ ] Module 4
-- [ ] Module 5
+### TryHackMe - AI Security (25 rooms)
+**Section 1 - AI Fundamentals**
+- [x] AI/ML Security Threats
+- [ ] AI Models & Data
+- [ ] Prompt Engineering
+- [ ] AI Forensics
+- [ ] ContAInment
+
+**Section 2 - Secure AI Systems**
+- [ ] Securing AI Systems
+- [ ] LLM Security
+- [ ] AI Threat Modelling
+- [ ] AI System Reconnaissance
+- [ ] AI Threat Modelling Assessment
+
+**Section 3 - Prompt Security**
+- [ ] Prompt Injection
+- [ ] Jailbreaking
+- [ ] Prompt Defence
+- [ ] LLMborghini
+- [ ] White Rabbit
+
+**Section 4 - AI Supply Chain Security**
+- [ ] Understanding AI Supply Chains
+- [ ] Supply Chain Attack Vectors
+- [ ] Securing the AI Supply Chain
+- [ ] Payload
+- [ ] Checkpoint
+
+**Section 5 - Data Poisoning**
+- [ ] RAG Security Fundamentals
+- [ ] Data Poisoning in RAG Systems
+- [ ] Sensitive Information Disclosure
+- [ ] UnIndexed
+- [ ] Lockdown
 
 ## Structure
 
