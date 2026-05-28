@@ -9,7 +9,7 @@ Hands-on notes and labs from my AI security learning path.
 ## Progress
 
 ### HackTheBox - AI Red Teamer
-- [x] Fundamentals of AI (in progress)
+- [ ] Fundamentals of AI (in progress)
 - [ ] Applications of AI in InfoSec
 - [ ] Introduction to Red Teaming AI
 - [ ] Prompt Injection Attacks
@@ -25,7 +25,7 @@ Hands-on notes and labs from my AI security learning path.
 ### TryHackMe - AI Security (25 rooms)
 **Section 1 - AI Fundamentals**
 - [x] AI/ML Security Threats
-- [ ] AI Models & Data
+- [x] AI Models & Data
 - [ ] Prompt Engineering
 - [ ] AI Forensics
 - [ ] ContAInment
